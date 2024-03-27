@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "A Recursive System Identification With Non-Uniform Temporal Feedback Under Coprime Collaborative Sensing"
 authors:
 - admin
-- Robert Ford
+- Xu Chen
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*ASME Letters Dyn. Sys. Control. Apr 2023, 3*(2)"
+publication_short: "ASME-LDSC"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We present a system identification method based on recursive least-squares (RLS) and coprime collaborative sensing, which can recover system dynamics from non-uniform temporal data. Focusing on systems with fast input sampling and slow output sampling, we use a polynomial transformation to reparameterize the system model and create an auxiliary model that can be identified from the non-uniform data. We show the identifiability of the auxiliary model using a Diophantine equation approach. Numerical examples demonstrate successful system reconstruction and the ability to capture fast system response with limited temporal feedback.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: TBD.
 
 tags:
 - Source Themes
@@ -33,14 +33,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/3/2/021010/1166908/A-Recursive-System-Identification-With-Non-Uniform?redirectedFrom=fulltext
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
