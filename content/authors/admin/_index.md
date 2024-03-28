@@ -106,10 +106,10 @@ social:
 highlight_name: true
 ---
 
-Hello, welcome to my world! I am currently a research Engineer at SC Solutions, Inc. 
+Hello, welcome to my world! I am currently a research Engineer at [SC Solutions, Inc](https://scsolutions.com/). 
 
-I earned my master's degree in Mechanical Engieering from [the University of Washington](https://www.washington.edu/) in 2023, under the supervision of [Prof. Xu Chen](https://faculty.washington.edu/chx/). During my master studies, I worked on a system identification project that leveraged irregular temporal feedback for identifying dynamical systems beyond Nyquist frenquency, incorporating a proposed collaborative sensing scheme. 
+I earned my master's degree in Mechanical Engineering from [the University of Washington](https://www.washington.edu/) in 2023, under the guidance of [Prof. Xu Chen](https://faculty.washington.edu/chx/). During my master's studies, I worked on a system identification project that leverages irregular temporal feedback to identify dynamical systems beyond Nyquist frequency, incorporated with a novel coprime collaborative sensing scheme. 
 
-Prior to that, I received my bachelor's degree in Mechanical Engieering from the University of Arizona in 2021, under the supervision of Prof. Qin Hao. I was involved in a boiling heat transfer project where machine learning was implemented to discover the most important surface micro-structure descriptors predicting critical heat flux.
+Prior to that, I completed my bachelor's degree in Mechanical Engineering  from [the University of Arizona](https://www.arizona.edu/) in 2021, under the mentorship of [Prof. Hao Qing](https://ame.engineering.arizona.edu/faculty-staff/faculty/qing-hao). My undergraduate research centered on a boiling heat transfer project where we applied machine learning algorithms to uncover essential surface micro-structure descriptors crucial for predicting critical heat flux, contributing to enhancement in high-power cooling technologies.
 
 {style="text-align: justify;"}
