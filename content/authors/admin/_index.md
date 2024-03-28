@@ -29,8 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Control Theory
-  - Artificial Intelligence
+  - Optimal Control
+  - System Identification
+  - Reinforcement Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
@@ -92,7 +94,7 @@ social:
     link: https://scholar.google.com/citations?user=s5M9TwoAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/jinhua-ouyang
+    link: https://www.linkedin.com/in/jinhua-ouyang/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
