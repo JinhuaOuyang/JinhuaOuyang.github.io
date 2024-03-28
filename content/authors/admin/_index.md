@@ -107,4 +107,9 @@ highlight_name: true
 ---
 
 Hello, welcome to my world! I am currently a research Engineer at SC Solutions, Inc. 
+
+I earned my master's degree in Mechanical Engieering from [the University of Washington](https://www.washington.edu/) in 2023, under the supervision of [Prof. Xu Chen](https://faculty.washington.edu/chx/). During my master studies, I worked on a system identification project that leveraged irregular temporal feedback for identifying dynamical systems beyond Nyquist frenquency, incorporating a proposed collaborative sensing scheme. 
+
+Prior to that, I received my bachelor's degree in Mechanical Engieering from the University of Arizona in 2021, under the supervision of Prof. Qin Hao. I was involved in a boiling heat transfer project where machine learning was implemented to discover the most important surface micro-structure descriptors predicting critical heat flux.
+
 {style="text-align: justify;"}
