@@ -179,8 +179,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Reinforcement Learning
+          tag: Reinforcement Learning
         - name: Other
           tag: Demo
     design:
