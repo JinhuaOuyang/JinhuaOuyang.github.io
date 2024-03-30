@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*ASME Letters Dyn. Sys. Control. Apr 2023, 3*(2)"
-publication_short: "ASME-LDSC"
+publication_short: "In *ASME Letters Dyn. Sys. Control. Apr 2023, 3*(2)"
 
 abstract: We present a system identification method based on recursive least-squares (RLS) and coprime collaborative sensing, which can recover system dynamics from non-uniform temporal data. Focusing on systems with fast input sampling and slow output sampling, we use a polynomial transformation to reparameterize the system model and create an auxiliary model that can be identified from the non-uniform data. We show the identifiability of the auxiliary model using a Diophantine equation approach. Numerical examples demonstrate successful system reconstruction and the ability to capture fast system response with limited temporal feedback.
 

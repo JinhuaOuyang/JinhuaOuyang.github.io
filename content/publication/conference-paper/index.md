@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 American Control Conference*
-publication_short: In *ACC*
+publication_short: In *2023 American Control Conference*
 
 abstract: This paper presents a least squares formulation and a closed-form solution for identifying dynamical systems using non-uniform data obtained under a coprime collaborative sensing scheme. Specifically, the method combines measurements from two slow output sensors with different sampling rates to estimate the system’s dynamics. We provide the theoretical foundation for developing advanced least-squares-based system identification algorithms for cases where the input-output data are sampled at different rates. Demonstrative examples are provided to validate the proposed method, and to show the identification beyond the Nyquist frequency.
 
