@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - "First Author"
+  - "Corresponding Author"
 
 date: '2023-05-31T00:00:00Z'
 doi: '10.23919/ACC55779.2023.10156141'
@@ -65,14 +65,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
