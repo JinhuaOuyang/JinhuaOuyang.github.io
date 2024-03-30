@@ -1,13 +1,15 @@
 ---
 title: "A Recursive System Identification With Non-Uniform Temporal Feedback Under Coprime Collaborative Sensing"
+
 authors:
 - admin
 - Xu Chen
+
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "First Author"
+- "Corresponding Author"
+date: "2023-10-25T00:00:00Z"
+doi: "https://doi.org/10.1115/1.4063481"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-25T00:00:00Z"
@@ -61,7 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
