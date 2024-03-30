@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - "First Author"
-  - "Corresponding Author"
+  - 'First Author'
+  - 'Crresponding Author'
 
 date: '2023-05-31T00:00:00Z'
 doi: '10.23919/ACC55779.2023.10156141'
