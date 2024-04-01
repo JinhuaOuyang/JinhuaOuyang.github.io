@@ -1,19 +1,10 @@
 ---
 title: Multi-Armed Bandits
 date: '2024-03-31'
-summary: One classic introductory example for reinforcement learning is the "k-armed bandit problem." In this scenario, you are faced with k different slot machines (bandits), each with an unknown probability distribution of payouts. Your objective is to maximize your cumulative reward by choosing which bandit to pull at each time step.
-
-The k-armed bandit problem is an ideal starting point for understanding reinforcement learning due to its simplicity and ability to illustrate fundamental concepts like action-value estimation, exploration-exploitation trade-off, and the role of feedback in learning optimal behaviors. Mastering this problem lays a solid foundation for tackling more complex reinforcement learning challenges such as Markov Decision Processes (MDPs) and partially observable environments.
+summary: One classic introductory example for reinforcement learning is the "k-armed bandit problem." In this scenario, you are faced with k different slot machines (bandits), each with an unknown probability distribution of payouts. Your objective is to maximize your cumulative reward by choosing which bandit to pull at each time step. \n The k-armed bandit problem is an ideal starting point for understanding reinforcement learning due to its simplicity and ability to illustrate fundamental concepts like action-value estimation, exploration-exploitation trade-off, and the role of feedback in learning optimal behaviors. Mastering this problem lays a solid foundation for tackling more complex reinforcement learning challenges such as Markov Decision Processes (MDPs) and partially observable environments.
 ---
-
-
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
-
     
-![png](output_1_0.png)
+![png](bookRL.png)
     
 
 ```python
