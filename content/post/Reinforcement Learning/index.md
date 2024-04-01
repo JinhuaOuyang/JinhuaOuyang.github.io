@@ -6,8 +6,14 @@ summary: One classic introductory example for reinforcement learning is the "k-a
 The k-armed bandit problem is an ideal starting point for understanding reinforcement learning due to its simplicity and ability to illustrate fundamental concepts like action-value estimation, exploration-exploitation trade-off, and the role of feedback in learning optimal behaviors. Mastering this problem lays a solid foundation for tackling more complex reinforcement learning challenges such as Markov Decision Processes (MDPs) and partially observable environments.
 ---
 
+
+```python
+from IPython.core.display import Image
+Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+```
+
     
-![png](bookRL.png)
+![png](output_1_0.png)
     
 
 ```python
